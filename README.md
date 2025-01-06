@@ -69,31 +69,31 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/zA1TGgB.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>SPF record for the Return-Path domain.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/MlDzBO1.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>DMARC record for the Return-Path domain.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b></b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b></b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b></b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b></b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b></b>
 <br/>
