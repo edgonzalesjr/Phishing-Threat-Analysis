@@ -34,6 +34,40 @@ To understand and analyze a suspicious phishing email to identify potential secu
 - MxToolBox: To examine email headers, DNS records, and SPF configurations.
 - VirusTotal: For analyzing attachments and checking for malware or malicious payloads.
 - dmarcian: For checking the DMARC records and understanding email authentication practices.
-- Email Source Code Analysis (CTRL+U): To extract email header details, including originating IP address and Return-Path domain.
+- Email Source Code Analysis: To extract email header details, including originating IP address and Return-Path domain.
 
 ## Perform Analysis
+
+- VirusTotal
+<p align="center">
+<img src="https://imgur.com/IeY54C5.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Instead of uploading the actual file, Use its hash value.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>VirusTotal is a powerful tool for malware analysis, offering extensive capabilities to uncover detailed information based on what we're seeking. By searching for a hash, it provides a reputation score and other relevant data to help quickly assess the file's nature.</b>
+<br/>
+
+## Outcome
+
+- Improved Email Security Awareness:
+  - Identify phishing attempts effectively and take proactive steps to prevent them.
+  - Enhanced understanding of how email security protocols (SPF, DMARC) help protect against spoofing and phishing attacks.
+ 
+ - Hands-on Experience with Cybersecurity Tools:
+  - Gaining practical experience with OSINT tools will help learners investigate and validate suspicious communications in real-world scenarios.
+ 
+ - Effective Use of Incident Response Protocols:
+   - Understand the importance of working with a SOC and following organizational protocols when encountering potential threats.
+
+ - Practical Understanding of Attachment Threats:
+   - Evaluate email attachments for signs of malware, enabling them to prevent possible infections.
+
+ - Real-World Application of Cybersecurity Concepts:
+   - By engaging in a practical challenge, apply cybersecurity concepts such as phishing identification, email header analysis, and attachment investigation, to prepare for real-world cybersecurity tasks.
+
+## Acknowledgements
+- [VirusTotal](https://www.virustotal.com/gui/home/search)
