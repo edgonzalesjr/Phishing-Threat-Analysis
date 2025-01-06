@@ -70,4 +70,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
   - By engaging in a practical challenge, apply cybersecurity concepts such as phishing identification, email header analysis, and attachment investigation, to prepare for real-world cybersecurity tasks.
 
 ## Acknowledgements
+- [Whois](https://www.whois.com/whois/)
+- [MxToolBox](https://mxtoolbox.com/SuperTool.aspx)
 - [VirusTotal](https://www.virustotal.com/gui/home/search)
+- [dmarcian](https://dmarcian.com/dmarc-inspector/)
