@@ -87,9 +87,15 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/fe3Xz3a.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b></b>
+<b>Attachment Analysis.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/lCQ4MLS.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>File Repuation.</b>
 <br/>
 
 <p align="center">
