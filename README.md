@@ -29,3 +29,11 @@ To understand and analyze a suspicious phishing email to identify potential secu
    - Recognizing the importance of proactive measures in mitigating potential security breaches.
 
 ### Tools Used
+
+- Whois: For querying domain registration information and identifying the legitimacy of the domain.
+- MxToolBox: To examine email headers, DNS records, and SPF configurations.
+- VirusTotal: For analyzing attachments and checking for malware or malicious payloads.
+- dmarcian: For checking the DMARC records and understanding email authentication practices.
+- Email Source Code Analysis (CTRL+U): To extract email header details, including originating IP address and Return-Path domain.
+
+## Perform Analysis
