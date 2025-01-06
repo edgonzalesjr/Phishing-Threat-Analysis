@@ -57,17 +57,17 @@ To understand and analyze a suspicious phishing email to identify potential secu
   - Identify phishing attempts effectively and take proactive steps to prevent them.
   - Enhanced understanding of how email security protocols (SPF, DMARC) help protect against spoofing and phishing attacks.
  
- - Hands-on Experience with Cybersecurity Tools:
-  - Gaining practical experience with OSINT tools will help learners investigate and validate suspicious communications in real-world scenarios.
+- Hands-on Experience with Cybersecurity Tools:
+  - Gaining practical experience with OSINT tools to investigate and validate suspicious communications in real-world scenarios.
  
- - Effective Use of Incident Response Protocols:
-   - Understand the importance of working with a SOC and following organizational protocols when encountering potential threats.
+- Effective Use of Incident Response Protocols:
+  - Understand the importance of working with a SOC and following organizational protocols when encountering potential threats.
 
- - Practical Understanding of Attachment Threats:
-   - Evaluate email attachments for signs of malware, enabling them to prevent possible infections.
+- Practical Understanding of Attachment Threats:
+  - Evaluate email attachments for signs of malware to prevent possible infections.
 
- - Real-World Application of Cybersecurity Concepts:
-   - By engaging in a practical challenge, apply cybersecurity concepts such as phishing identification, email header analysis, and attachment investigation, to prepare for real-world cybersecurity tasks.
+- Real-World Application of Cybersecurity Concepts:
+  - By engaging in a practical challenge, apply cybersecurity concepts such as phishing identification, email header analysis, and attachment investigation, to prepare for real-world cybersecurity tasks.
 
 ## Acknowledgements
 - [VirusTotal](https://www.virustotal.com/gui/home/search)
