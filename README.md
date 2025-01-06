@@ -47,7 +47,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/8s5RVR7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Open the extrated .eml file to see what the email's content.</b>
+<b>Open the extrated .eml file to see what's the email content.</b>
 <br/>
 
 <p align="center">
@@ -81,9 +81,9 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/x9AaNFN.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b></b>
+<b>Extraction of the .eml for IOCs.</b>
 <br/>
 
 <p align="center">
