@@ -57,6 +57,12 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/x9AaNFN.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Extraction of the .eml for IOCs.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/QMCTZ6A.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Originating IP Address.</b>
@@ -78,12 +84,6 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <img src="https://imgur.com/MlDzBO1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>DMARC record for the Return-Path domain.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/x9AaNFN.png" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>Extraction of the .eml for IOCs.</b>
 <br/>
 
 <p align="center">
