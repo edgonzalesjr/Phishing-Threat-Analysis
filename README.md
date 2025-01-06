@@ -38,11 +38,10 @@ To understand and analyze a suspicious phishing email to identify potential secu
 
 ## Perform Analysis
 
-- VirusTotal
 <p align="center">
-<img src="https://imgur.com/IeY54C5.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/mzloYSY.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Instead of uploading the actual file, Use its hash value.</b>
+<b>Get the hash value of the .eml file.</b>
 <br/>
 
 <p align="center">
