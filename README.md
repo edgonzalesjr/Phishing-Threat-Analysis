@@ -47,13 +47,13 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/8s5RVR7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Open the extrated .eml file to see what's the email content.</b>
+<b>Open the extracted .eml file to see what's the email content.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/gK4B43q.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Open the extrated .eml file to text editor.</b>
+<b>Open the extracted .eml file to text editor.</b>
 <br/>
 
 <p align="center">
