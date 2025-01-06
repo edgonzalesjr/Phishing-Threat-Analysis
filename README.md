@@ -45,10 +45,59 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/8s5RVR7.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Open the extrated .eml file to see what the email's content.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/gK4B43q.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Open the extrated .eml file to text editor.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/QMCTZ6A.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Originating IP Address.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/4I7ibCi.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Owner of the Originating IP Address.</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>VirusTotal is a powerful tool for malware analysis, offering extensive capabilities to uncover detailed information based on what we're seeking. By searching for a hash, it provides a reputation score and other relevant data to help quickly assess the file's nature.</b>
+<b></b>
 <br/>
+
+<p align="center">
+<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/yF7ypdf.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
 
 ## Outcome
 
