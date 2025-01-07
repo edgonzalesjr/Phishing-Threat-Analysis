@@ -95,7 +95,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/lCQ4MLS.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>File Repuation. Indicating that Majority of vendors flag as malicious.</b>
+<b>File Reputation. Indicating that Majority of vendors flag as malicious.</b>
 <br/>
 
 ## Outcome
