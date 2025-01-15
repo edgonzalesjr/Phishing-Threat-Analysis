@@ -27,8 +27,8 @@ To understand and analyze a suspicious phishing email to identify potential secu
 
 - Whois: For querying domain registration information and identifying the legitimacy of the domain.
 - MxToolBox: To examine email headers, DNS records, and SPF configurations.
-- VirusTotal: For analyzing attachments and checking for malware or malicious payloads.
 - dmarcian: For checking the DMARC records and understanding email authentication practices.
+- VirusTotal: For analyzing attachments and checking for malware or malicious payloads.
 - Mozilla Thunderbird: Email client to open the .eml file.
 - Sublime Text: Text editor to open the .eml file.
 
@@ -49,7 +49,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/gK4B43q.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Open the extracted .eml file to text editor.</b>
+<b>Open the extracted .eml file to a text editor.</b>
 <br/>
 
 <p align="center">
@@ -114,8 +114,8 @@ This project combines ideas and methods from various sources, such as the TryHac
  - [TryHackMe - The Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
  - [Whois](https://www.whois.com/whois/)
  - [MxToolBox](https://mxtoolbox.com/SuperTool.aspx)
- - [VirusTotal](https://www.virustotal.com/gui/home/search)
  - [dmarcian](https://dmarcian.com/dmarc-inspector/)
+ - [VirusTotal](https://www.virustotal.com/gui/home/search) 
  - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/)
  - [Sublime Text](https://www.sublimetext.com/)
 
