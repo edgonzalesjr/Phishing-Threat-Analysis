@@ -1,6 +1,6 @@
 ## Objective
 
-To understand and analyze a suspicious phishing email to identify potential security threats, while learning to use open-source intelligence (OSINT) tools for in-depth email investigation. Gain proficiency in evaluating email headers, SPF, and DMARC records to verify the authenticity of an email, and develop the skills to analyze email attachments for signs of malware or other malicious activities. Additionally, the topic emphasizes the importance of following incident response protocols, including forwarding suspicious emails to Security team for further analysis and mitigation of potential risks.
+To understand and analyze a suspicious phishing email to identify potential security threats, while learning to use open-source intelligence (OSINT) tools for in-depth email investigation. Gain proficiency in evaluating email headers, SPF, and DMARC records to verify the authenticity of an email, and develop the skills to analyze email attachments for signs of malware or other malicious activities. Following incident response protocols, including forwarding suspicious emails to Security team for further analysis and mitigation of potential risks.
 
 ### Skills Learned
 
