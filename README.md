@@ -61,25 +61,25 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/QMCTZ6A.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Originating IP Address.</b>
+<b>Originating IP address.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/4I7ibCi.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Owner of the Originating IP Address.</b>
+<b>Whois: Owner of the originating IP address.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/zA1TGgB.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>SPF record for the Return-Path domain.</b>
+<b>MxToolBox: SPF record for the Return-Path domain.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/MlDzBO1.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>DMARC record for the Return-Path domain.</b>
+<b>dmarcian: DMARC record for the Return-Path domain.</b>
 <br/>
 
 <p align="center">
@@ -91,7 +91,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
 <p align="center">
 <img src="https://imgur.com/lCQ4MLS.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>File Reputation. Indicating that Majority of vendors flag as malicious.</b>
+<b>VirusTotal: For file reputation checks. Indicating that majority of vendors flag as malicious.</b>
 <br/>
 
 ## Outcome
