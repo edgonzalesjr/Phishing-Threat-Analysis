@@ -110,7 +110,7 @@ To understand and analyze a suspicious phishing email to identify potential secu
 
 ## Acknowledgements
 
-This project combines ideas and methods from various sources, such as the TryHackMe The Greenholt Phish room and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the TryHackMe - The Greenholt Phish room and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [TryHackMe - The Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
  - [Whois](https://www.whois.com/whois/)
  - [MxToolBox](https://mxtoolbox.com/SuperTool.aspx)
